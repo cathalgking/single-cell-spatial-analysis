@@ -1,5 +1,4 @@
-# A useful coloour scheme for R plots such as UMAP
-
+# When there are too many clusters on your UMAP plot, try this useful colour scheme
 
 # this is probably the best colour scheme
 color.panel = c("#73CA6F", 
