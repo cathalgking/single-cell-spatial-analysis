@@ -1,7 +1,7 @@
 # When there are too many clusters on your UMAP plot, try this useful colour scheme
 
 # this is probably the best colour scheme
-color.panel = c("#73CA6F", 
+colour.panel = c("#73CA6F", 
                 "#AF75CE", 
                 "#C5916F", 
                 "#ABC0D4", 
